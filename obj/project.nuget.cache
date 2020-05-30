@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I9Zr1IS0bgBTSyM/stbX473B3fjPP9G9EVZKkMisjiV5FmchhQIryaDbNbWwqJHVneZq8DzivyKmIxYBpOMaVA==",
+  "success": true,
+  "projectFilePath": "D:\\app\\BlazorHelloWorld\\BlazorHelloWorld\\BlazorHelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dani\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
